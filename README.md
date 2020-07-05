@@ -5,7 +5,7 @@ Employee-Manager
 
 # Deployed App 
 
-https://russellsalcido.github.io/Template-Engine-Employee-Summary/
+https://github.com/russellsalcido/Employee-Manager.git
 
 ## Description 
 
